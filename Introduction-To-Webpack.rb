@@ -25,4 +25,5 @@ EOS
 block <<-EOS
     - Entry Point
     - Split Point
+    - Assets
 EOS
