@@ -8,11 +8,12 @@
     "style-loader": "^0.7.1"
   },
   "devDependencies": {
+    "react-hot-loader": "^0.4.2",
     "webpack": "*",
     "webpack-dev-server": "^1.6.1"
   },
   "scripts": {
     "build": "webpack -p",
-    "start": "webpack-dev-server --watch --colors -d"
+    "start": "webpack-dev-server --watch --colors --hot"
   }
 }
