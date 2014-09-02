@@ -1,11 +1,23 @@
 # encoding: utf-8
 
 center <<-EOS
-  \e[1mConstant Autoloading in Ruby on Rails\e[0m
+  \e[1mWebPack Introduction\e[0m
 
 
-  Xavier Noria
-  @fxn
+  Maskim Ryzhikov
+  @maksimrv
 
-  BaRuCo 2012
+  spb-frontend 2014
+EOS
+
+center <<-EOS
+    “WebPack is a module \e[1mbundler”
+EOS
+
+block <<-EOS
+    - <script>
+
+    - CommonJs: Synchronous require
+    - AMD: asynchronous require
+    - ES6 modules
 EOS

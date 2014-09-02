@@ -1,0 +1,8 @@
+{
+    "name": "WebPackIntroduction-spb-frontend2014",
+    "version": "0.0.0",
+    "dependencies": {},
+    "devDependencies": {
+        "webpack": "*"
+    }
+}
