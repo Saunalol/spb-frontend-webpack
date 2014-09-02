@@ -11,6 +11,10 @@ center <<-EOS
 EOS
 
 center <<-EOS
+    “WebPack is awesome!
+EOS
+
+center <<-EOS
     “WebPack is a module \e[1mbundler”
 EOS
 
