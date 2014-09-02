@@ -21,3 +21,8 @@ block <<-EOS
     - AMD: asynchronous require
     - ES6 modules
 EOS
+
+block <<-EOS
+    - Entry Point
+    - Split Point
+EOS
